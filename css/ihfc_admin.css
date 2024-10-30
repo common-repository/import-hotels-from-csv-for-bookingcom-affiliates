@@ -1,0 +1,42 @@
+.ihfc-settings-page TABLE thead td
+{
+    font-weight: bold;
+    text-transform: uppercase;
+       
+}
+
+.ihfc-settings-page TABLE td
+{
+    padding-right: 25px;
+    text-align: center;
+    
+}
+
+.ihfc-settings-page  .li-file
+{
+    padding-right:50px;
+    text-align: left;
+}
+
+.ihfc-settings-page P label
+{
+    display:inline-block;
+    width:300px;
+    vertical-align:top;
+    line-height:28px;
+}
+.ihfc-settings-page P small{
+    display:block;
+}
+
+.ihfc-settings-page input[type=text], .ihfc-settings-page select
+{
+    max-width:330px;
+    width:100%;
+    vertical-align:top;
+}
+
+.ihfc-btn-validate-options
+{
+    margin-left: 100px;
+}
